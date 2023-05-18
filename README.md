@@ -1,6 +1,10 @@
-# Bootcamp Septiembre 2022 - Marzo 2023
+# Bootcamp Abril 2023 - Noviembre 2023
 ![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
 Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 2023.
+
+<h1 align="center">
+    Bootcamp Abril 2023 - Noviembre 2023
+</h1>
 
 ## Lista de Tareas
 <details><summary>Lista Tareas </summary>
@@ -23,7 +27,12 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 202
 </p>
 </details>
 
+<!-- Para comentar texto usamos esto -->
+<!--Enlaces intersantes para "copiar" 
+https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks_v1
+https://github.com/krzjoa/awesome-python-data-science
 
+-->
 ## Algebra Lineal 
 <details><summary>Indice</summary>
 <p>
