@@ -8,8 +8,8 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 202
 
 - [x] Algebra Lineal
 - [x] Programación
-- [ ] Librerías :construction_worker:
-- [ ] Estadística
+- [x] Librerías 
+- [ ] Estadística :construction_worker:
 - [ ] Modelos Supervisados
 - [ ] Modelos No Supervisados
 - [ ] Series Temporales
@@ -19,16 +19,25 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 202
 
 
 ## Algebra Lineal
+<details><summary>Indice</summary>
+<p>
 
-* Determinantes
-* Inversa de Matrices
-* Sistema de Ecuaciones
+- [x] Determinantes
+- [x] Inversa de Matrices
+- [x] Sistema de Ecuaciones
+
+</p>
+</details>
 
 ## Estadística
+<details><summary>Indice</summary>
+<p>
 
-* Estadística Descriptiva
-* Series Cronológicas
-* Intervalos de Confianza
+* [ ] Estadística Descriptiva
+* [ ] Series Cronológicas
+* [ ] Intervalos de Confianza
+</p>
+</details>
 
 ## Machine Learning
 ### Validación de Modelos
