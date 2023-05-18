@@ -7,8 +7,14 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 202
 <p>
 
 - [x] Algebra Lineal
+    * [notebook](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Algebra_Lineal/Clase%20Algebra%20Lineal.ipynb)
 - [x] Programación
-- [x] Librerías 
+    - [Enunciados](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Programacion/Enunciados/Ejercicio%20Repaso.ipynb)
+    - [Solución](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Programacion/Soluciones/Ejercicio%20Repaso.ipynb)
+- [x] Librerías
+    - [Matplotlib](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Matplotlib/matplotlib.ipynb)
+    - [Numpy](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Numpy/Numpy.ipynb)
+    - [Pandas](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/tree/master/Librerias/Pandas)
 - [ ] Estadística :construction_worker:
 - [ ] Modelos Supervisados
 - [ ] Modelos No Supervisados
@@ -25,7 +31,6 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 202
 - [x] Determinantes 
 - [x] Inversa de Matrices
 - [x] Sistema de Ecuaciones
-- [x] [notebook](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/tree/master/Algebra_Lineal)
 </p>
 </details>
 
