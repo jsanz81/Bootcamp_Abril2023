@@ -18,11 +18,11 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 202
 </details>
 
 
-## Algebra Lineal
+## Algebra Lineal [](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/tree/master/Algebra_Lineal)
 <details><summary>Indice</summary>
 <p>
 
-- [x] Determinantes
+- [x] Determinantes 
 - [x] Inversa de Matrices
 - [x] Sistema de Ecuaciones
 
