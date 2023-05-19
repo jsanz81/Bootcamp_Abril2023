@@ -3,8 +3,7 @@
 </h1>
 
 <div align="center">
-<a href="https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg">
-</a>
+    <img width="250" height="250" src="https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg" alt="pyds">
 </div>
 
 
