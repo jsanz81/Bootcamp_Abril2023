@@ -38,11 +38,6 @@
 </details>
 
 <!-- Para comentar texto usamos esto -->
-<!--Enlaces intersantes para "copiar" 
-https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks_v1
-https://github.com/krzjoa/awesome-python-data-science
-
--->
 ## Algebra Lineal 
 <details><summary>Indice</summary>
 <p>
