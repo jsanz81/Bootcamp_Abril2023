@@ -1,16 +1,20 @@
-# Bootcamp Abril 2023 - Noviembre 2023
-![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
-Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 2023.
-
 <h1 align="center">
     Bootcamp Abril 2023 - Noviembre 2023
 </h1>
+
+<div align="center">
+![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
+</div>
+
+
+> Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 2023.
+
 
 ## Lista de Tareas
 <details><summary>Lista Tareas </summary>
 <p>
 
-- [x] Algebra Lineal
+- [x] [Algebra Lineal](#algebra-lineal)
     * [notebook](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Algebra_Lineal/Clase%20Algebra%20Lineal.ipynb)
 - [x] Programación
     - [Enunciados](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Programacion/Enunciados/Ejercicio%20Repaso.ipynb)
@@ -19,11 +23,17 @@ Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 202
     - [Matplotlib](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Matplotlib/matplotlib.ipynb)
     - [Numpy](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Numpy/Numpy.ipynb)
     - [Pandas](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/tree/master/Librerias/Pandas)
-- [ ] Estadística :construction_worker:
-- [ ] Modelos Supervisados
-- [ ] Modelos No Supervisados
-- [ ] Series Temporales
-- [ ] NLP
+- [ ] [Estadística](#estadística) :construction_worker:
+- [ ] [Machine Learning](#machine-learning)
+    - [ ] [Validación de Modelos](#validación-de-modelos)
+    - [ ] [Modelos Supervisados](#modelos-supervisados)
+        - [ ] [Modelos de Clasificación](#modelos-de-clasificación)
+        - [ ] [Modelos de Regresion](#modelos-de-regresion)
+        - [ ] [Optimización de Hiperparametros](#optimización-de-hiperparametros)
+    - [ ] [Modelos No Supervisados](#modelos-no-supervisados)
+- [ ] [Interpretación de Modelos](#interpretación-de-modelos)
+<!--- [ ] Series Temporales
+- [ ] NLP-->
 </p>
 </details>
 
@@ -56,9 +66,6 @@ https://github.com/krzjoa/awesome-python-data-science
 ## Machine Learning
 ### Validación de Modelos
 * Validación Cruzada
-### Optimización de HiperParametros
-* GridSearch
-* RandomizedSearch
 
 ### Modelos Supervisados
 #### Modelos de Clasificación
@@ -68,12 +75,17 @@ Algunos modelos de clasificación son:
 * Arboles de Decisión :evergreen_tree:
 * Random Forest :palm_tree: :evergreen_tree: :deciduous_tree: :christmas_tree:
 * K-Vecinos 
+
 #### Modelos de Regresion
 Algunos modelos de regresión son:
 * Regresión Lineal
 * Lasso
 * Ridge
 * XGBoost
+
+#### Optimización de HiperParametros
+* GridSearch
+* RandomizedSearch
 
 ### Modelos No Supervisados
 * Análisis de Componentes Princiaples (PCA)
