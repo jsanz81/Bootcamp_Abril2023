@@ -3,7 +3,8 @@
 </h1>
 
 <div align="center">
-![](https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg)
+<a href="https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg">
+</a>
 </div>
 
 
