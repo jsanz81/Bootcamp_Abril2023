@@ -140,6 +140,7 @@ Continuemos con el [ejemplo anterior](#ejemplo-1)
 
 La unión Cross quedará así
 <div align="center">
+
 |	Id_Cliente_x	|	Nombre	|	Apellido	|	Id_Cliente_y	|	Fecha	|	Facturado	|
 |	------	|	------	|	------	|	------	|	------	|	------	|
 |	1234	|	Beltrán	|	García	|	4321	|	19/05/2019	|	7.532 €	|
