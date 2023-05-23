@@ -11,6 +11,7 @@ basándose en una columna común entre ellas a las que denonimaremos `Key`, devo
 
 ## Tipos de Unión
 Pandas tiene diferentes maneras de hacer esas combinaciones
+
 <div align="center">
 | Tipo de Unión  | Descripción                         |
 | --------       | ------------------------------------|
@@ -26,6 +27,7 @@ Selecciona todas las filas de las columnas `Key` siempre y cuando haya una coinc
 
 #### Ejemplo 1
 Un Supermercado tiene en dos dataframe uno de nombres de los clientes y o otro con su fecha de ultima compra
+
 <div align="center">
 
 **Clientes**
@@ -37,6 +39,7 @@ Un Supermercado tiene en dos dataframe uno de nombres de los clientes y o otro c
 | 4567     | Saúl            | Almodóvar |
 | 5678     | Ignacio         | Irin      |
 </div>
+
 <div align="center">
 
 **Última Compra**
@@ -88,6 +91,7 @@ Continuemos con el [ejemplo anterior](#ejemplo-1)
 #### Ejemplo 3
 
 Se conisderará el dataframe de la derecha el de Última Compra quedando la unión como:
+
 <div align="center">
 | Id_Cliente  | Nombre | Apellido | Fecha| Facturado|
 | --------    | -------|----------|------|----------|
@@ -99,4 +103,5 @@ Se conisderará el dataframe de la derecha el de Última Compra quedando la uni�
 <div>
 
 Se muestran todas las filas del dataframe Última Compra, que es el dataframe de la derecha. Se puede ver como los Id_Cliente 4321 y 7846 no tiene nombre ni apellido.
+
 
