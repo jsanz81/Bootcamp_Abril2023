@@ -24,6 +24,7 @@ Pandas tiene diferentes maneras de hacer esas combinaciones
 </div>
 
 [^1]:No recomendable hacer.
+
 ### Inner Join
 Las combinaciones tipo **Inner Join** son las  más usadas.
 Selecciona todas las filas de las columnas `Key` siempre y cuando haya una coincidencia entre las columnas en ambas tablas.
@@ -31,9 +32,10 @@ Selecciona todas las filas de las columnas `Key` siempre y cuando haya una coinc
 #### Ejemplo 1
 Un Supermercado tiene en dos dataframe uno de nombres de los clientes y o otro con su fecha de ultima compra
 
-<div align="center">
 
 **Clientes**
+<div align="center">
+
 | Id_Cliente  | Nombre                         | Apellido
 | --------    | ------------------------------------|------------------------------------|
 | 1234     | Beltrán         | García    |
@@ -43,9 +45,10 @@ Un Supermercado tiene en dos dataframe uno de nombres de los clientes y o otro c
 | 5678     | Ignacio         | Irin      |
 </div>
 
+**Última Compra**
+
 <div align="center">
 
-**Última Compra**
 | Id_Cliente  | Fecha                         | Facturado
 | --------       | ------------------------------------|------------------------------------|
 | 4321     | 19-05-2019         | 7.532€    |
@@ -66,7 +69,7 @@ quedando la unión como:
 | 2345     | Olga      | Bermejo   |25-03-2020| 2.951€    |
 | 3456     | Aurora    | Siller    |31-07-2020| 4.569€    |
 | 4567     | Saúl      | Almodóvar |28-02-2022| 6.523€    |
-<div>
+</div>
 
 ### Left Join
 Las combinaciones tipo **Left Join** mantiene todas las filas del dataframe de la izquierda. Las filas del dataframe de la derecha se mostrarán si hay una coincidencia con las de la izquierda. Si existen valores en la tabla izquierda pero no en la tabla derecha, ésta mostrará como missing.
@@ -85,7 +88,7 @@ quedando la unión como:
 | 3456     | Aurora    | Siller    |31-07-2020| 4.569€    |
 | 4567     | Saúl      | Almodóvar |28-02-2022| 6.523€    |
 | 5678     | Ignacio   | Irin      |   NaN |   NaN   |
-<div>
+</div>
 
 Se muestran todas las filas del dataframe Cliente, que es el dataframe de la izquierda. Se puede ver como Beltrán García e Ignacio Irin no tiene fecha de última compra ni facturado.
 
@@ -106,7 +109,7 @@ Se conisderará el dataframe de la derecha el de Última Compra quedando la uni�
 | 3456     | Aurora    | Siller    |31-07-2020| 4.569€    |
 | 4567     | Saúl      | Almodóvar |28-02-2022| 6.523€    |
 | 7846     |   NaN |   NaN   | 25-03-2023       | 9.632€    |
-<div>
+</div>
 
 Se muestran todas las filas del dataframe Última Compra, que es el dataframe de la derecha. Se puede ver como los Id_Cliente 4321 y 7846 no tiene nombre ni apellido.
 
@@ -128,7 +131,7 @@ La unión Outer quedará así
 | 5678     | Ignacio   | Irin      |   NaN    | NaN     |
 | 4321     |   NaN     | NaN       |19-05-2019| 7.532€  |
 | 7846     |   NaN     | NaN       |25-03-2023| 9.632€  |
-<div>
+</div>
 
 Se muestran todas las filas de ambos dataframes.
 
@@ -169,6 +172,6 @@ La unión Cross quedará así
 |	5678	|	Ignacio	|	Irin	|	4567	|	28/02/2022	|	6.523 €	|
 |	5678	|	Ignacio	|	Irin	|	7846	|	25/03/2023	|	9.632 €	|
 
-<div>
+</div>
 
 Es decir, que cada fila del dataframe **Clientes** Lo unirá con cada una de las filas del dataframe **Ultima_fecha**
