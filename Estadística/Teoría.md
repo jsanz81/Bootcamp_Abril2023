@@ -44,7 +44,7 @@ Diagrama de Barras: La longitud de la barra nos informa de la frecuencia con que
 Momentos no centrados
 </h4>
 
-$$a_r=\cfrac{\sum_{i=1}^k (x_i^r n_i)}{n}$$
+$$a_r=\frac{\sum_{i=1}^k (x_i^r n_i)}{n}$$
 
 * **Propiedades**: El momento no centrado a_1 se conoce como media (aritmética) y $a_0$=1
 
@@ -53,7 +53,7 @@ Momentos centrados
 </h4>
 
 
-$$m_r=\cfrac{\sum{i=1}^k ((x_i-\bar{x})^r n_i)}{n}$$
+$$m_r=\frac{\sum_{i=1}^k ((x_i-\bar{x})^r n_i)}{n}$$
 
 * **Propiedades** : El momento centrado m_2 se conoce como la varianza. $m_0=1$, $m_1=0$. 
 
