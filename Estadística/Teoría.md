@@ -50,14 +50,16 @@ $$a_r=\cfrac{1}{n} \times \sum_{i=1}^k (x_i^r \times n_i)$$
 
 * **Propiedades**: El momento no centrado a_1 se conoce como media (aritmética) y $a_0$=1
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
 
 <h4 align="center">
 Momentos centrados
 </h4>
 
+Para calcular los momentos centrados se emplea
+
 ```math
-m_r=\frac{\sum^k_{i=1} ((x_i-\bar{x})^r n_i)}{n}$$
+m_r=\frac{1}{n} \times \sum_{i=1}^k \left(\left(x_i-\bar{x}\right)^r n_i\right)
 ```
 * **Propiedades** : El momento centrado $m_2$ se conoce como la varianza. $m_0=1$, $m_1=0$. 
 
