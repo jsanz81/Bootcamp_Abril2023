@@ -63,8 +63,8 @@ m_r=\frac{1}{n} \times \sum_{i=1}^k \left(\left(x_i-\bar{x}\right)^r n_i\right)
 ```
 * **Propiedades** : El momento centrado $m_2$ se conoce como la varianza. $m_0=1$, $m_1=0$. 
 
-<h4 align="center">
+<h3 align="center">
 Medidas de Posición
-</h4>
+</h3>
 
 Tratan de representar mediante un solo valor a un conjunto de datos y suelen tomar una posición central respecto de los mismos.
