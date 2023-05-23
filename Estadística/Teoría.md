@@ -44,9 +44,11 @@ Diagrama de Barras: La longitud de la barra nos informa de la frecuencia con que
 Momentos no centrados
 </h4>
 
-$$a_r=\frac{\sum^k_{i=1} (x_i^r n_i)}{n}$$
+$$a_r=\frac{\sum{i=1} (x_i^r \times n_i)}{n}$$
 
 * **Propiedades**: El momento no centrado a_1 se conoce como media (aritmética) y $a_0$=1
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 <h4 align="center">
 Momentos centrados
