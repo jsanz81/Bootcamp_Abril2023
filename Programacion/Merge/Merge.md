@@ -17,11 +17,13 @@ Pandas tiene diferentes maneras de hacer esas combinaciones
 | Tipo de Unión  | Descripción                         |
 | --------       | ------------------------------------|
 | Inner Join     | Devuelve las filas donde ambos dataframe tengan un valor coincidente|
-| Left Join      | Devuelve todas las filas de la primera tabla y las filas coincidentes de la segunda tabla            |
-| Right Join     |Devuelve todas las filas de la segunda tabla y las filas coincidentes de la primera tabla|
-| Outer Join     | Devuelve todas las filas de la primera  y segunda tabla|
+| Left Join      | Devuelve todas las filas de la primera dataframe y las filas coincidentes de la segunda dataframe            |
+| Right Join     |Devuelve todas las filas de la segunda dataframe y las filas coincidentes de la primera dataframe|
+| Outer Join     | Devuelve todas las filas de la primera  y segunda dataframe|
+| Cross Join[^1]     | Crea el producto cartesiano de ambos dataframe|
 </div>
 
+[^1]:No recomendable hacer
 ### Inner Join
 Las combinaciones tipo **Inner Join** son las  más usadas.
 Selecciona todas las filas de las columnas `Key` siempre y cuando haya una coincidencia entre las columnas en ambas tablas.
