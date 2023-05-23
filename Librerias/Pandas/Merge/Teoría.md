@@ -175,3 +175,7 @@ La unión Cross quedará así
 </div>
 
 Es decir, que cada fila del dataframe **Clientes** Lo unirá con cada una de las filas del dataframe **Ultima_fecha**
+
+Puedes ver el desarrollo de python en los ficheros: 
+* [Merge](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Pandas/Merge/Merge.ipynb) 
+* [Combinar_dataframe](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Pandas/16%20Combinar%20dataframes%20(merge).ipynb)
