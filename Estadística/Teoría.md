@@ -44,6 +44,8 @@ Diagrama de Barras: La longitud de la barra nos informa de la frecuencia con que
 Momentos no centrados
 </h4>
 
+Para calcular los momentos no centrados se emplea
+
 $$a_r=\frac{ \sum_{i=1}^k (x_i^r \times n_i)}{n}$$
 
 * **Propiedades**: El momento no centrado a_1 se conoce como media (aritmética) y $a_0$=1
