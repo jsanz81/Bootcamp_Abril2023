@@ -13,6 +13,7 @@ basándose en una columna común entre ellas a las que denonimaremos `Key`, devo
 Pandas tiene diferentes maneras de hacer esas combinaciones
 
 <div align="center">
+
 | Tipo de Unión  | Descripción                         |
 | --------       | ------------------------------------|
 | Inner Join     | Devuelve las filas donde ambos dataframe tengan un valor coincidente|
@@ -57,6 +58,7 @@ Si se echa un vistazo rápio, se comprueba que solo 3 filas coinciden el ***Id_C
 quedando la unión como:
 
 <div align="center">
+
 | Id_Cliente  | Nombre | Apellido | Fecha| Facturado|
 | --------    | -------|----------|------|----------|
 | 2345     | Olga      | Bermejo   |25-03-2020| 2.951€    |
@@ -73,6 +75,7 @@ Se conisderará el dataframe de la izquierda el de clientes
 quedando la unión como:
 
 <div align="center">
+
 | Id_Cliente  | Nombre | Apellido | Fecha| Facturado|
 | --------    | -------|----------|------|----------|
 | 1234     | Beltrán   | García    |   NA |   NA   |
@@ -93,6 +96,7 @@ Continuemos con el [ejemplo anterior](#ejemplo-1)
 Se conisderará el dataframe de la derecha el de Última Compra quedando la unión como:
 
 <div align="center">
+
 | Id_Cliente  | Nombre | Apellido | Fecha| Facturado|
 | --------    | -------|----------|------|----------|
 | 4321        |   NA   |   NA   | 19-05-2019 | 7.532€|
