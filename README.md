@@ -6,7 +6,7 @@
     <img width="250" height="250" src="https://masterdatascience.online/wp-content/uploads/2020/02/706-1024x671.jpg" alt="pyds">
 </div>
 
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 > Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 2023.
 
 
@@ -39,24 +39,21 @@
 
 <!-- Para comentar texto usamos esto -->
 ## Algebra Lineal 
-<details><summary>Indice</summary>
-<p>
+---
+Indice
 
 - [x] Determinantes 
 - [x] Inversa de Matrices
 - [x] Sistema de Ecuaciones
-</p>
-</details>
+
 
 ## Estadística
-<details><summary>Indice</summary>
-<p>
+---
+Indice
 
 * [ ] Estadística Descriptiva
 * [ ] Series Cronológicas
 * [ ] Intervalos de Confianza
-</p>
-</details>
 
 ## Machine Learning
 ### Validación de Modelos

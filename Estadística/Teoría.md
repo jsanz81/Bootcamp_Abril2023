@@ -14,6 +14,8 @@
     Fenómenos y Variables
 </h3>
 
+---
+
 * **Fenómeno causal o determinístico**: Aquellos que presentan los mismos resultados si se realizan en idénticas condiciones.
 * **Fenómenos aleatorios o estadísticos**: No se pueden predecir el resultado aunque sean conocidas las condiciones de realización.
 * **Población**: Conjunto de elementos sobre los que se quiere realizar un estudio.
@@ -28,6 +30,8 @@
     Tablas Estadísticas
 </h3>
 
+---
+
 * **Tablas estadísticas**: Recogen las modalidades de forma individual o agrupada en intervalos y las frecuencias absolutas de cada modalidad o intervalo.  El número de observaciones se obtiene sumando todas las frecuencias absolutas.
 * **Frecuencia relativa de la modalidad o intervalo** es el cociente de la frecuencia absoluta sobre el total de observaciones.
 * **Frecuencia absoluta acumulada de la modalidad o intervalo** es el número de veces que se han observado valores menores o iguales a dicha modalidad o intervalo.
@@ -38,6 +42,8 @@ Diagrama de Barras: La longitud de la barra nos informa de la frecuencia con que
 <h3 align="center">
     Momentos
 </h3>
+
+---
 
 * **Momentos**: Valores calculados a partir de la distribución de frecuencias que resumen la información relativa a alguna propiedad de la variables.
 <h4 align="center">
@@ -67,4 +73,46 @@ m_r=\frac{1}{n} \times \sum_{i=1}^k \left(\left(x_i-\bar{x}\right)^r n_i\right)
 Medidas de Posición
 </h3>
 
+---
+
 Tratan de representar mediante un solo valor a un conjunto de datos y suelen tomar una posición central respecto de los mismos.
+<h4 align="center">
+Media Aritmética
+</h4>
+
+se define como 
+```math
+\bar{x}=\cfrac{1}{n} \sum_{i=1}^k x_i \times ni
+```
+**Propiedades**
+
+1. Consideramos n observaciones agrupadas en s conjuntos de datos con $n_1,\ldots,n_s$ observaciones cada uno y con media $\bar{x}_1,\ldots,\bar{x}_s$, entonces la media $\bar{x}$ de n observaciones es:
+```math
+\bar{x} = \cfrac{\bar{x}_1 \times n_1 + \ldots + \bar{x}_s n_s}{$n_1 + \ldots  + n_s$}
+```
+2. Sufre cambios de escala y origen.
+
+<h4 align="center">
+Mediana
+</h4>
+
+Es aquel valor que divide a la muestra ordenada en dos partes iguales. Se puede calcular por interpolación
+
+<h4 align="center">
+Moda
+</h4>
+
+Es el valor que se presenta con más frecuencia. Puede haber varias modas. Para variables discretas y atributos se calcula inmediato. Variables continúas la mayor o frecuencia de las observaciones en un intervalo depende de su amplitud.
+
+
+<h4 align="center">
+Percentiles
+</h4>
+
+Dividen a la muestra ordenada en 100 conjuntos con igual número de observaciones. Reciben el nombre de medidas de posición no central. Forma de calculuar por interpolación.
+
+<h3 align="center">
+Medidas de Dispersión
+</h3>
+
+---
