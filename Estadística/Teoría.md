@@ -88,7 +88,7 @@ se define como
 
 1. Consideramos n observaciones agrupadas en s conjuntos de datos con $n_1,\ldots,n_s$ observaciones cada uno y con media $\bar{x}_1,\ldots,\bar{x}_s$, entonces la media $\bar{x}$ de n observaciones es:
 ```math
-\bar{x} = \cfrac{\bar{x}_1 \times n_1 + \ldots + \bar{x}_s n_s}{$n_1 + \ldots  + n_s$}
+\bar{x} = \cfrac{\bar{x}_1 \times n_1 + \ldots + \bar{x}_s n_s}{n_1 + \ldots  + n_s}
 ```
 2. Sufre cambios de escala y origen.
 

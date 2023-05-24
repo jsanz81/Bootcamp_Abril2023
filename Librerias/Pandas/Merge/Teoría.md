@@ -78,7 +78,7 @@ Las combinaciones tipo **Left Join** mantiene todas las filas del dataframe de l
 
 Continuemos con el [ejemplo anterior](#ejemplo-1)
 #### Ejemplo 2
-**[`^        Enunciado        ^`](#ejemplo-1)**
+
 Se conisderará el dataframe de la izquierda el de clientes
 quedando la unión como:
 
@@ -100,7 +100,7 @@ Las combinaciones tipo **Right Join** mantiene todas las filas del dataframe de 
 
 Continuemos con el [ejemplo anterior](#ejemplo-1)
 #### Ejemplo 3
-**[`^        Enunciado        ^`](#ejemplo-1)**
+
 Se conisderará el dataframe de la derecha el de Última Compra quedando la unión como:
 
 <div align="center">
@@ -121,7 +121,7 @@ Las combinaciones tipo **Outer Join** mantiene todas las filas del dataframe de 
 
 Continuemos con el [ejemplo anterior](#ejemplo-1)
 #### Ejemplo 4
-**[`^        Enunciado        ^`](#ejemplo-1)**
+
 La unión Outer quedará así
 <div align="center">
 
@@ -143,7 +143,7 @@ Las combinaciones tipo **Cross Join** realiza un producto cartesiano entre los d
 
 Continuemos con el [ejemplo anterior](#ejemplo-1)
 #### Ejemplo 5
-**[`^        Enunciado        ^`](#ejemplo-1)**
+
 La unión Cross quedará así
 <div align="center">
 
