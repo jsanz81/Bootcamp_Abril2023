@@ -47,7 +47,6 @@ En la siguiente tabla se muestra las puntuaciones de cada uno de los jugadores.
 
 | Puntuación| Frecuencia|
 |----|----|
-
 | 3 | 2 |
 | 6 | 1 |
 | 7 | 2 |
