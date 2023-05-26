@@ -43,7 +43,7 @@ En la siguiente tabla se muestra las puntuaciones de cada uno de los jugadores.
 <h3 align="center">
     Jugador 3
 </h3>
----
+
 
 | Puntuación| Frecuencia|
 |----|----|
