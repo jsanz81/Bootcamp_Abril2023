@@ -10,7 +10,7 @@
 > Notebooks y ficheros csv de las clases impartidas en el Bootcamp de abril de 2023.
 
 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
 ## Lista de Tareas
 <details><summary>Lista Tareas </summary>
 <p>
