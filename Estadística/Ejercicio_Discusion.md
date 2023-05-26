@@ -6,6 +6,7 @@
 <h2 align="center">
     Baloncesto
 </h2>
+
 ---
 Bienvenid@ a su trabajo como data scientist de un club de baloncesto. 
 De cara la próxima temporada los ojeadores se han decantado por tres grandes jugadores.
@@ -14,7 +15,7 @@ En la siguiente tabla se muestra las puntuaciones de cada uno de los jugadores.
 <h3 align="center">
     Jugador 1
 </h3>
----
+
 
 | Puntuación| Frecuencia|
 |----|----|
@@ -27,7 +28,7 @@ En la siguiente tabla se muestra las puntuaciones de cada uno de los jugadores.
 <h3 align="center">
     Jugador 2
 </h3>
----
+
 
 | Puntuación| Frecuencia|
 |----|----|
@@ -40,7 +41,7 @@ En la siguiente tabla se muestra las puntuaciones de cada uno de los jugadores.
 | 13| 1|
 
 <h3 align="center">
-    Jugador 2
+    Jugador 3
 </h3>
 ---
 
