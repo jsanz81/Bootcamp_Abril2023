@@ -24,8 +24,15 @@
     - [Matplotlib](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Matplotlib/matplotlib.ipynb)
     - [Numpy](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/blob/master/Librerias/Numpy/Numpy.ipynb)
     - [Pandas](https://github.com/DanielMontesSerrano/Bootcamp_Abril2023/tree/master/Librerias/Pandas)
-- [ ] [Estadística](#estadística) :construction_worker:
-- [ ] [Machine Learning](#machine-learning)
+- [x] [Estadística](#estadística)
+    - [EDA]
+    - [Caracterización]
+    - [Probabilidad]
+    - [Intervalo_de_Confianza]
+    - [Test_Hipotesis]
+        - [Test_Parametricos]
+        - [Test_No_Parametricos]
+- [ ] [Machine Learning](#machine-learning) :construction_worker:
     - [ ] [Validación de Modelos](#validación-de-modelos)
     - [ ] [Modelos Supervisados](#modelos-supervisados)
         - [ ] [Modelos de Clasificación](#modelos-de-clasificación)
